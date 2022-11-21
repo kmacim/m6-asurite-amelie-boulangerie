@@ -95,7 +95,7 @@ address{
 }
 
 footer{
-    text-align: italic;
+    Font-style: italic;
     text-align: center;
     background-color: #afaeb4;
     padding-top: 8px;
